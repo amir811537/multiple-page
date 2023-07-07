@@ -1,0 +1,27 @@
+nav > ul > li {
+  display: inline;
+  margin-right: 15px;
+}
+
+a {
+  text-decoration: none;
+}
+a:hover {
+  color: rgb(87, 98, 114);
+  background-color: lightcoral;
+}
+img {
+  width: 500px;
+  height: 500px;
+}
+footer {
+  padding: 20px;
+  justify-content: center;
+  text-align: center;
+}
+body {
+  text-align: center;
+}
+body {
+  background-color: aqua;
+}
